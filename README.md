@@ -1,8 +1,9 @@
 <h1 align="center">Fala aí. Eu sou o Kilux.</h1>
 
 <p align="center">
-  Eu destruo sistemas quando preciso e reconstruo com eficiência.<br>
-  Código limpo, automação precisa, resultado real.
+  Estudante de Ciência da Computação.<br>
+  Desenvolvimento de automações e soluções práticas para sistemas reais.<br>
+  Código limpo, eficiente e focado em entregar resultados.
 </p>
 
 ---
@@ -10,7 +11,7 @@
 ### ⚙️ Habilidades Técnicas
 
 #### Linguagens
- <p align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
 </p>
@@ -30,5 +31,5 @@
 ---
 
 <p align="center" style="font-weight: bold; font-size: 1.1em;">
-  A construção é para quem sabe o que quer e sabe agir.
+  Construir é agir com propósito e resultado.
 </p>
