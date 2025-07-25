@@ -39,5 +39,6 @@
 ---
 
 <p align="center" style="font-weight: bold; font-size: 1.1em;">
-  Construir é agir com propósito e resultado.
+  Contra cibercrime, só existe uma arma: conhecimento técnico.
 </p>
+
