@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa! Eu sou o Edu</h1>
+<h1 align="center">👋 Opa! Eu sou o Kilux</h1>
 
 <p align="center">
   Estudante de Ciência da Computação, curioso por sistemas, automação e cibersegurança. <br>
@@ -26,14 +26,6 @@
 
 ---
 
-### 📂 Repositórios em destaque
-
-- [`meus-scripts-shell`](https://github.com/kizhixz/meus-scripts-shell) – Scripts para automação e personalização de terminal Linux
-- [`anotacoes-python`](https://github.com/kizhixz/anotacoes-python) – Blocos de estudo organizados por níveis e pilares de Python
-- `grimorio-cyber` – (em breve) Repositório voltado a cibersegurança, ferramentas e anotações práticas
-
----
-
 ### 📚 Em constante estudo
 
 - Python voltado para automação e análise de código
@@ -45,5 +37,5 @@
 
 <p align="center">
   <i>“Você não precisa estar pronto. Precisa estar em movimento.”</i><br>
-  <b>- Edu</b>
+  <b>- Kilux</b>
 </p>
