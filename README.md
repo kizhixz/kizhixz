@@ -8,6 +8,25 @@
 
 ---
 
+### 🧾 Sobre mim
+
+<p align="left" style="font-size: 1em;">
+  Atuo na área de tecnologia com foco em automação e sistemas Linux, mas meu direcionamento profissional está na cibersegurança.<br><br>
+
+  Sou contra o uso de tecnologia para fins criminosos. Não romantizo invasão, não idolatro exploração. Meu interesse é técnico, ético e direto: combater vulnerabilidades e proteger sistemas reais.<br><br>
+
+  Quero trabalhar com cibersegurança porque entendo o impacto que ela tem — na proteção de dados, na integridade de sistemas e na segurança de pessoas. O resto é barulho.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-ethics-critical?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-SecOps-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoCrime%20JustCode-000000?style=for-the-badge&logo=protonvpn&logoColor=white" />
+</p>
+
+
+---
+
 ### ⚙️ Habilidades Técnicas
 
 #### Linguagens
