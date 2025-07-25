@@ -1,41 +1,46 @@
-<h1 align="center">👋 Opa! Eu sou o Kilux</h1>
+<h1 align="center">Fala aí. Eu sou o Kilux.</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação, curioso por sistemas, automação e cibersegurança. <br>
-  Estou construindo meu caminho com código, estudo e prática real.
+  Eu quebro tudo que for possível no sistema, e reconstruo do meu jeito. <br>
+  Trabalho com código, automação e conhecimento real. Sem enrolação.
 </p>
 
 ---
 
-### 🧠 Habilidades Técnicas
+### ⚙️ Habilidades Técnicas
 
-#### 🚀 Linguagens
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+#### 🐍 Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
 </p>
 
-#### 🧰 Ferramentas e Sistemas
-<p>
-  <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ZSH-89E051?style=for-the-badge&logo=terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+#### 💻 Ferramentas e Sistemas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/manjaro/manjaro-original.svg" height="40" alt="manjaro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
 ---
 
-### 📚 Em constante estudo
+### 📂 Meus Repositórios
 
-- Python voltado para automação e análise de código
-- Shell Script para configuração de sistemas
-- Fundamentos de cibersegurança
-- Estrutura de repositórios e documentação técnica
+- [`meus-scripts-shell`](https://github.com/kizhixz/meus-scripts-shell): Automação de terminal no Linux. Setup do meu jeito.
+  
+---
+
+### 📡 No radar agora
+
+- Python para automação e script real
+- Shell Script para controle total do sistema
+- Fundamentos de cibersegurança na prática
+- Organização e documentação de código como gente grande
 
 ---
 
 <p align="center">
-  <i>“Você não precisa estar pronto. Precisa estar em movimento.”</i><br>
-  <b>- Kilux</b>
+  <b>Não fico esperando ficar pronto. Eu construo enquanto caminho.</b>
 </p>
