@@ -7,7 +7,7 @@
 
 ---
 
-### 🧾 Sobre mim
+<h2 align="center">Sobre mim</h2>
 
 <p align="left">
   Atuo com automação de tarefas, scripts em ambientes Linux e versionamento de código. Meu foco principal é cibersegurança.<br><br>
@@ -36,4 +36,17 @@
 #### Ferramentas & Sistemas
 <p align="left">
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro" />
-  <img src="h
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📚 Estudos Atuais
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-automation-orange?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
+  Python para automação — scripts reais, controle total do sistema.<br><br>
+
+  <img src="https://img.shields.io/badge/Cybersecurity-fundamentals-b
