@@ -1,45 +1,49 @@
-<h4 align="center">Carlos Eduardo</h4>
+<h1 align="center">👋 Opa! Eu sou o Edu</h1>
 
-###
+<p align="center">
+  Estudante de Ciência da Computação, curioso por sistemas, automação e cibersegurança. <br>
+  Estou construindo meu caminho com código, estudo e prática real.
+</p>
 
-<h3 align="center">💻 Ciência da Computação | 🐍 Python | 🚀 Autodidata</h3>
+---
 
-###
+### 🧠 Habilidades Técnicas
 
-<h2 align="left">Sobre</h2>
+#### 🚀 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-###
+#### 🧰 Ferramentas e Sistemas
+<p>
+  <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ZSH-89E051?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-<h4 align="left">Estudante de Ciência da Computação<br>    Autodidata em programação há 2 anos<br>    Foco em Python, desenvolvimento web e automação</h4>
+---
 
-###
+### 📂 Repositórios em destaque
 
-<h2 align="left">Stack Principal</h2>
+- [`meus-scripts-shell`](https://github.com/kizhixz/meus-scripts-shell) – Scripts para automação e personalização de terminal Linux
+- [`anotacoes-python`](https://github.com/kizhixz/anotacoes-python) – Blocos de estudo organizados por níveis e pilares de Python
+- `grimorio-cyber` – (em breve) Repositório voltado a cibersegurança, ferramentas e anotações práticas
 
-###
+---
 
-<h4 align="left">🐍 Python (Back-end, automação, scripting)<br>🖥️ Linux / WSL para desenvolvimento<br>⚡ Git e versionamento decente</h4>
+### 📚 Em constante estudo
 
-###
+- Python voltado para automação e análise de código
+- Shell Script para configuração de sistemas
+- Fundamentos de cibersegurança
+- Estrutura de repositórios e documentação técnica
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
+---
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kizhixz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://x.com/kizhixz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <i>“Você não precisa estar pronto. Precisa estar em movimento.”</i><br>
+  <b>- Edu</b>
+</p>
