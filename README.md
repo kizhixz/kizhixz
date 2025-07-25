@@ -49,4 +49,6 @@
   <img src="https://img.shields.io/badge/Python-automation-orange?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
   Python para automação — scripts reais, controle total do sistema.<br><br>
 
-  <img src="https://img.shields.io/badge/Cybersecurity-fundamentals-b
+   <img src="https://img.shields.io/badge/Cybersecurity-fundamentals-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  Fundamentos de cibersegurança — identificar, proteger, responder.
+</p>
