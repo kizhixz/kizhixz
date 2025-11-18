@@ -1,55 +1,87 @@
-<div style="
-    background-color: #1a0f30; 
-    border: 1px solid #4a3875; 
-    padding: 25px; 
-    border-radius: 8px; 
-    margin-bottom: 20px; 
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); 
-    color: #e0e0e0;
-    font-family: monospace, sans-serif;
-">
-    <h3>Meu Primeiro Card</h3>
-    <p>Este é um exemplo de texto dentro da caixa customizada.</p>
-    
-    <a href="https://github.com/seuusuario" style="color: #9c89ff; text-decoration: none;">Visite meu perfil!</a>
-</div>
+<div align="center">
 
+<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/satellite/white.svg" width="80">
 
-<div style="
-    display: flex; 
-    gap: 20px; 
-    margin: 30px 0;
-">
-    <div style="
-        flex: 1; 
-        background-color: #151515; 
-        border: 1px solid #333333; 
-        padding: 20px; 
-        border-radius: 6px; 
-        color: #ffffff;
-    ">
-        <h4>📚 Projetos Principais</h4>
-        <ul>
-            <li>Projeto A - Curta descrição.</li>
-            <li>Projeto B - Curta descrição.</li>
-        </ul>
-    </div>
+# <span style="font-family: 'Cinzel', serif; font-size: 58px; color:#8CFF9E;">Kizhi xz</span>
 
-    <div style="
-        flex: 1; 
-        background-color: #151515; 
-        border: 1px solid #333333; 
-        padding: 20px; 
-        border-radius: 6px; 
-        color: #ffffff;
-    ">
-        <h4>⭐ Estatísticas</h4>
-        <p>Insira seu badge de estatísticas aqui!</p>
-    </div>
-</div>
+### <span style="font-family: monospace; color:#E8E8E8;">Developer • Cybersecurity • Recon • Automation</span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nord&hide_border=true&title_color=0077b6&icon_color=0077b6)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nord&hide_border=true&title_color=0077b6)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=SEU_USERNAME&theme=nord&hide_border=true&stroke=0077b6)
+# 🛰️ Projects
+
+<table>
+<tr>
+<td>
+
+### 🧰 **toolkit**
+CLI personalizado para automação, coleta e análise rápida.  
+**Linguagem:** Python  
+⭐ 26  🍴 9
+
+</td>
+<td>
+
+### 🔎 **scanx**
+Ferramenta avançada para descoberta e enumeração.  
+**Linguagem:** Go  
+⭐ 14  🍴 3
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📡 **hunter**
+Scripts de exploits e automações ofensivas.  
+**Linguagem:** Shell  
+⭐ 21  🍴 1
+
+</td>
+<td>
+
+### 👁️ **grepx**
+Parâmetros e coleta inteligente.  
+**Linguagem:** Python  
+⭐ 9  🍴 1
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizhi-xz&layout=compact&theme=chartreuse-dark&title_color=8CFF9E&text_color=E8E8E8&bg_color=000000" height="160">
+
+<img src="https://streak-stats.demolab.com?user=Kizhi-xz&theme=green_nur&background=000000&ring=8CFF9E&fire=8CFF9E&currStreakLabel=8CFF9E" height="180">
+
+---
+
+# 🧑‍💻 Profile
+
+```go
+package main
+
+import "fmt"
+
+type dev struct {
+    Name, Role, Portfolio string
+    LanguagesSpoken       []string
+}
+
+func main() {
+    me := dev{
+        Name:            "Kizhi xz",
+        Role:            "developer / cybersecurity",
+        LanguagesSpoken: []string{"PT", "EN"},
+        Portfolio:       "https://seusiteaqui.com",
+    }
+
+    fmt.Println("Obrigado por visitar! 🚀")
+    fmt.Println("Portfólio:", me.Portfolio)
+}
