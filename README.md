@@ -1,87 +1,114 @@
 <div align="center">
+    <h1>
+        <span style="font-family: monospace; color: #DAA520; font-size: 3em;">Edu</span>
+    </h1>
+    <h3 style="font-family: monospace; color: #EAEAEA; border-bottom: 2px solid #DAA520; padding-bottom: 5px; margin-top: -10px;">
+        Web Developer & Security Enthusiast
+    </h3>
 
-<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/satellite/white.svg" width="80">
-
-# <span style="font-family: 'Cinzel', serif; font-size: 58px; color:#8CFF9E;">Kizhi xz</span>
-
-### <span style="font-family: monospace; color:#E8E8E8;">Developer • Cybersecurity • Recon • Automation</span>
+    <p style="font-family: monospace; color: #AAAAAA; font-size: 1.1em; margin-top: 20px;">
+        Estudante de Ciência da Computação focado em criar soluções web robustas e seguras.
+    </p>
+</div>
 
 <br>
+<hr style="border: 1px solid #333333;">
+<br>
 
----
+<div align="center">
+    <h2 style="font-family: monospace; color: #DAA520; font-size: 2em;">
+        Knowledge / Skills
+    </h2>
+</div>
 
-# 🛰️ Projects
+<div align="center" style="font-family: monospace; color: #EAEAEA; margin-top: 15px;">
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">HTML5</span>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">CSS3</span>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">JavaScript</span>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">React/Vue</span>
+    
+    <br><br>
 
-<table>
-<tr>
-<td>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">Python (Django/Flask)</span>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">Node.js</span>
+    <span style="background-color: #333; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">SQL</span>
 
-### 🧰 **toolkit**
-CLI personalizado para automação, coleta e análise rápida.  
-**Linguagem:** Python  
-⭐ 26  🍴 9
+    <br><br>
 
-</td>
-<td>
+    <span style="background-color: #550000; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">OS Security</span>
+    <span style="background-color: #550000; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">Network Concepts</span>
+    <span style="background-color: #550000; padding: 5px 10px; border-radius: 5px; margin: 0 10px;">Cryptography</span>
+</div>
 
-### 🔎 **scanx**
-Ferramenta avançada para descoberta e enumeração.  
-**Linguagem:** Go  
-⭐ 14  🍴 3
+<br>
+<hr style="border: 1px solid #333333;">
+<br>
 
-</td>
-</tr>
+<div align="center">
+    <h2 style="font-family: monospace; color: #DAA520; font-size: 2em;">
+        Projects
+    </h2>
+</div>
 
-<tr>
-<td>
-
-### 📡 **hunter**
-Scripts de exploits e automações ofensivas.  
-**Linguagem:** Shell  
-⭐ 21  🍴 1
-
-</td>
-<td>
-
-### 👁️ **grepx**
-Parâmetros e coleta inteligente.  
-**Linguagem:** Python  
-⭐ 9  🍴 1
-
-</td>
-</tr>
+<table align="center" style="width: 80%; border: 1px solid #555; border-collapse: collapse; margin-top: 20px; font-family: monospace;">
+    <thead>
+        <tr style="background-color: #222;">
+            <th style="color: #DAA520; padding: 10px; border: 1px solid #555;">Nome do Projeto</th>
+            <th style="color: #DAA520; padding: 10px; border: 1px solid #555;">Descrição</th>
+            <th style="color: #DAA520; padding: 10px; border: 1px solid #555;">Linguagens/Tecnologias</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: #111; color: #EAEAEA;">
+            <td style="padding: 10px; border: 1px solid #555;">
+                <a href="" style="color: #4EC9B0; text-decoration: none;">
+                    **Nome do Projeto Atual**
+                </a>
+            </td>
+            <td style="padding: 10px; border: 1px solid #555; color: #AAAAAA;">
+                Uma breve descrição sobre o que este projeto faz e qual problema ele resolve.
+            </td>
+            <td style="padding: 10px; border: 1px solid #555;">
+                <span style="color: #FFD700;">Python</span>, <span style="color: #61DAFB;">React</span>
+            </td>
+        </tr>
+        
+        <tr style="background-color: #111; color: #EAEAEA;">
+            <td style="padding: 10px; border: 1px solid #555;">
+                <a href="" style="color: #4EC9B0; text-decoration: none;">
+                    **Sistema de Autenticação**
+                </a>
+            </td>
+            <td style="padding: 10px; border: 1px solid #555; color: #AAAAAA;">
+                Aplicação simples demonstrando boas práticas de segurança em login/registro.
+            </td>
+            <td style="padding: 10px; border: 1px solid #555;">
+                <span style="color: #A9A9A9;">Node.js</span>, <span style="color: #F89820;">Express</span>
+            </td>
+        </tr>
+        
+    </tbody>
 </table>
 
----
+<br>
+<hr style="border: 1px solid #333333;">
+<br>
 
-# 📊 GitHub Stats
+<div align="center">
+    <h2 style="font-family: monospace; color: #DAA520; font-size: 2em;">
+        Reach out
+    </h2>
+    
+    <p style="margin-top: 15px;">
+        <a href="">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+    </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizhi-xz&layout=compact&theme=chartreuse-dark&title_color=8CFF9E&text_color=E8E8E8&bg_color=000000" height="160">
-
-<img src="https://streak-stats.demolab.com?user=Kizhi-xz&theme=green_nur&background=000000&ring=8CFF9E&fire=8CFF9E&currStreakLabel=8CFF9E" height="180">
-
----
-
-# 🧑‍💻 Profile
-
-```go
-package main
-
-import "fmt"
-
-type dev struct {
-    Name, Role, Portfolio string
-    LanguagesSpoken       []string
-}
-
-func main() {
-    me := dev{
-        Name:            "Kizhi xz",
-        Role:            "developer / cybersecurity",
-        LanguagesSpoken: []string{"PT", "EN"},
-        Portfolio:       "https://seusiteaqui.com",
-    }
-
-    fmt.Println("Obrigado por visitar! 🚀")
-    fmt.Println("Portfólio:", me.Portfolio)
-}
+    <p style="font-family: 'Courier New', monospace; color: #A9A9A9; font-size: 1.2em; margin-top: 30px;">
+        **Code is poetry, security is responsibility.**
+    </p>
+</div>
